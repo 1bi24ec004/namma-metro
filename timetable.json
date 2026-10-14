@@ -1,0 +1,27 @@
+
+{
+  "schema_version": 1,
+  "station": "National College",
+  "timezone": "Asia/Kolkata",
+  "display_rules": {
+    "station_estimate_until_minutes_remaining": 1,
+    "show_delay_placeholder_at_minutes_remaining": 1,
+    "start_delay_counter_at_scheduled_arrival": true,
+    "record_delay_on_button_press": true,
+    "advance_to_next_train_after_button_press": true
+  },
+  "platforms": {
+    "madavara": {
+      "lcd_address": "0x27",
+      "display_name": "Madavara",
+      "direction": "toward Madavara",
+      "arrivals": []
+    },
+    "silk_institute": {
+      "lcd_address": "0x26",
+      "display_name": "Silk Institute",
+      "direction": "toward Silk Institute",
+      "arrivals": []
+    }
+  }
+}
