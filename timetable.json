@@ -1,6 +1,7 @@
 {
   "schema_version": 1,
   "station": "National College",
+  "day_type": "weekday",
   "timezone": "Asia/Kolkata",
   "display_rules": {
     "station_estimate_until_minutes_remaining": 1,
