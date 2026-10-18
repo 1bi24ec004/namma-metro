@@ -96,7 +96,8 @@
       "display_name": "Silk Institute",
       "direction": "toward Silk Institute",
       "arrivals": [
-        {"time":"07:04","destination":"Silk Institute"}, {"time":"07:26","destination":"Silk Institute"}, {"time":"07:48","destination":"Silk Institute"},
+        {"time":"07:04","destination":"Silk Institute"}, {"time":"07:26","destination":"Silk Institute"}, {"time": "07:38", "destination":"Silk Institute"},
+        {"time":"07:44","destination":"Silk Institute"},
         {"time":"07:52","destination":"Silk Institute"}, {"time":"08:02","destination":"Silk Institute"}, {"time":"08:12","destination":"Silk Institute"},
         {"time":"08:22","destination":"Silk Institute"}, {"time":"08:32","destination":"Silk Institute"}, {"time":"08:42","destination":"Silk Institute"},
         {"time":"08:52","destination":"Silk Institute"}, {"time":"09:02","destination":"Silk Institute"}, {"time":"09:12","destination":"Silk Institute"},
@@ -125,7 +126,7 @@
         {"time":"18:34","destination":"Silk Institute"}, {"time":"18:42","destination":"Silk Institute"}, {"time":"18:50","destination":"Silk Institute"},
         {"time":"18:58","destination":"Silk Institute"}, {"time":"19:06","destination":"Silk Institute"}, {"time":"19:14","destination":"Silk Institute"},
         {"time":"19:22","destination":"Silk Institute"}, {"time":"19:30","destination":"Silk Institute"}, {"time":"19:38","destination":"Silk Institute"},
-        {"time":"19:46","destination":"Silk Institute"}, {"time":"19:53","destination":"Silk Institute"}, {"time":"20:02","destination":"Silk Institute"},
+        {"time":"19:46","destination":"Silk Institute"}, {"time":"19:54","destination":"Silk Institute"}, {"time":"20:02","destination":"Silk Institute"},
         {"time":"20:10","destination":"Silk Institute"}, {"time":"20:18","destination":"Silk Institute"}, {"time":"20:26","destination":"Silk Institute"},
         {"time":"20:34","destination":"Silk Institute"}, {"time":"20:42","destination":"Silk Institute"}, {"time":"20:50","destination":"Silk Institute"},
         {"time":"20:58","destination":"Silk Institute"}, {"time":"21:10","destination":"Silk Institute"}, {"time":"21:20","destination":"Silk Institute"},
