@@ -159,11 +159,9 @@ The firmware filename and final folder structure will be confirmed when the code
 ### Raw JSON URLs
 
 ```text
-https://raw.githubusercontent.com/1bi24ec004/namma-metro/main/weekday.json
-
-https://raw.githubusercontent.com/1bi24ec004/namma-metro/main/saturday.json
-
-https://raw.githubusercontent.com/1bi24ec004/namma-metro/main/sunday.json
+[https://raw.githubusercontent.com/1bi24ec004/namma-metro/refs/heads/main/saturday.json]
+[https://raw.githubusercontent.com/1bi24ec004/namma-metro/refs/heads/main/sunday.json]
+[https://raw.githubusercontent.com/1bi24ec004/namma-metro/refs/heads/main/weekday.json]
 ```
 
 These URLs assume the three files are saved at the root of the repository's `main` branch.
