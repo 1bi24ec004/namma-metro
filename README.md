@@ -271,9 +271,9 @@ The final firmware must define exactly when each LED switches on and off. The gr
 - [x] Two LCDs connected.
 - [x] LCD I²C communication tested.
 - [x] I²C addresses confirmed as `0x27` and `0x26`.
-- [ ] Push button wired and tested.
-- [ ] Four LEDs wired and tested.
-- [ ] Final GPIO assignments verified against the integrated sketch.
+- [x] Push button wired and tested.
+- [x] Four LEDs wired and tested.
+- [x] Final GPIO assignments verified against the integrated sketch.
 
 ### Phase 2 — Timetable preparation
 
@@ -281,47 +281,47 @@ The final firmware must define exactly when each LED switches on and off. The gr
 - [x] Weekday timetable data prepared.
 - [x] Saturday timetable data prepared.
 - [x] Sunday timetable data prepared.
-- [ ] Save all three JSON files in the GitHub repository.
-- [ ] Validate JSON syntax and required fields.
-- [ ] Confirm that the raw GitHub URLs return the correct files.
+- [x] Save all three JSON files in the GitHub repository.
+- [x] Validate JSON syntax and required fields.
+- [x] Confirm that the raw GitHub URLs return the correct files.
 
 ### Phase 3 — ESP32 software integration
 
-- [ ] Configure Wi-Fi and NTP.
-- [ ] Select the correct timetable by day of week.
-- [ ] Download and parse the selected JSON.
-- [ ] Initialise both LCDs.
-- [ ] Display upcoming trains and destinations.
-- [ ] Calculate estimated arrival times.
-- [ ] Implement countdown and scheduled-arrival transitions.
-- [ ] Implement button debouncing and delay recording.
-- [ ] Implement next-train advancement.
-- [ ] Implement four LED indicators.
-- [ ] Handle network and JSON errors safely.
+- [x] Configure Wi-Fi and NTP.
+- [x] Select the correct timetable by day of week.
+- [x] Download and parse the selected JSON.
+- [x] Initialise both LCDs.
+- [x] Display upcoming trains and destinations.
+- [x] Calculate estimated arrival times.
+- [x] Implement countdown and scheduled-arrival transitions.
+- [x] Implement button debouncing and delay recording.
+- [x] Implement next-train advancement.
+- [x] Implement four LED indicators.
+- [x] Handle network and JSON errors safely.
 
 ### Phase 4 — Functional testing
 
-- [ ] Test both LCDs simultaneously.
-- [ ] Verify the correct train and destination on each display.
-- [ ] Test weekday, Saturday and Sunday selection.
-- [ ] Verify the midnight and day-transition cases.
-- [ ] Test arrival countdown and station estimation.
-- [ ] Test delay recording with the button.
-- [ ] Verify that one press registers only once.
-- [ ] Test the four LED states.
-- [ ] Test Wi-Fi disconnection and recovery.
-- [ ] Confirm that invalid timetable data does not crash the system.
+- [x] Test both LCDs simultaneously.
+- [x] Verify the correct train and destination on each display.
+- [x] Test weekday, Saturday and Sunday selection.
+- [x] Verify the midnight and day-transition cases.
+- [x] Test arrival countdown and station estimation.
+- [x] Test delay recording with the button.
+- [x] Verify that one press registers only once.
+- [x] Test the four LED states.
+- [x] Test Wi-Fi disconnection and recovery.
+- [x] Confirm that invalid timetable data does not crash the system.
 
 ### Phase 5 — Enclosure and final demonstration
 
-- [ ] Measure the actual LCD modules before cutting openings.
-- [ ] Cut openings for both LCDs and the push button.
-- [ ] Add four LED mounting holes.
-- [ ] Provide USB access at the side or rear.
-- [ ] Secure the ESP32, level shifter and breadboard.
-- [ ] Route and secure the internal wires.
-- [ ] Test the system before closing the enclosure.
-- [ ] Complete a full demonstration with both directions operating.
+- [x] Measure the actual LCD modules before cutting openings.
+- [x] Cut openings for both LCDs and the push button.
+- [x] Add four LED mounting holes.
+- [x] Provide USB access at the side or rear.
+- [x] Secure the ESP32, level shifter and breadboard.
+- [x] Route and secure the internal wires.
+- [x] Test the system before closing the enclosure.
+- [x] Complete a full demonstration with both directions operating.
 
 ## 13. Known Limitations
 
