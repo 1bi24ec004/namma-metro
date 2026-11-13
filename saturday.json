@@ -52,8 +52,8 @@
       "display_name": "Madavara",
       "direction": "toward Madavara",
       "arrivals": [
-        {"time":"04:55","destination":"Madavara"},
-        {"time":"05:13","destination":"Madavara"},
+        {"time":"04:58","destination":"Madavara"},
+        {"time":"05:15","destination":"Madavara"},
         {"time":"05:28","destination":"Madavara"},
         {"time":"05:38","destination":"Madavara"},
         {"time":"05:53","destination":"Madavara"},
